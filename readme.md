@@ -24,3 +24,5 @@
 - [Web Crusaders](https://github.com/Sur091/FSUWebsite.git)
     - [@Sur091](https://github.com/Sur091)
     - [@ArunAryal](https://github.com/ArunAryal)
+    - [@69Aryan](https://github.com/69Aryan)
+    - [Intafmalik](https://github.com/Intafmalik)
