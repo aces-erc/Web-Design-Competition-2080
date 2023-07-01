@@ -1,5 +1,4 @@
 ## Web Design Winners
-<hr>
 
 ### First Runner-Up:
 - [Stack Underflow](https://github.com/Sujan14728/fsuclient)
