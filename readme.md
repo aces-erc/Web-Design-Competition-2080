@@ -16,7 +16,7 @@
     - TBD
 
 ## Honorable Mentions:
--  [DhukurPuchrey](https://github.com/Sangyog10/FSU-Website)
+- [DhukurPuchrey](https://github.com/Sangyog10/FSU-Website)
     - [@Sangyog10](https://github.com/Sangyog10)
     - [@yamHainHum552](https://github.com/yamHainHum552)
     - [@subash-0](https://github.com/yamHainHum552)
