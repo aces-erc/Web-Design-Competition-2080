@@ -10,7 +10,7 @@
 ## First Runner-Up:
 - [Stack Underflow](https://github.com/Sujan14728/fsuclient)
     - [@Sujan14728](https://github.com/Sujan14728)
-    - [Swikarneupane](https://github.com/Swikarneupane)
+    - [@Swikarneupane](https://github.com/Swikarneupane)
 
 ## Second Runner-Up
 - [Error 404](https://github.com/jrTilak/FSU)
@@ -33,7 +33,7 @@
     - [@Sur091](https://github.com/Sur091)
     - [@ArunAryal](https://github.com/ArunAryal)
     - [@69Aryan](https://github.com/69Aryan)
-    - [Intafmalik](https://github.com/Intafmalik)
+    - [@Intafmalik](https://github.com/Intafmalik)
 
 - [Strivers](https://github.com/spidey3345/fsu)
     - [@spider3345](https://github.com/spidey3345/fsu/blob/main/index.html)
