@@ -1,11 +1,11 @@
 # Web Design Winners
 
 ## Winners:
-    - [GigaByte](https://github.com/crizanp/fsu)
-        - Srijan Pokhrel
-        - Sunil Bist
-        - Dinesh Nepal
-        - Bhuwan Ojha
+- [GigaByte](https://github.com/crizanp/fsu)
+    - Srijan Pokhrel
+    - Sunil Bist
+    - Dinesh Nepal
+    - Bhuwan Ojha
 
 ## First Runner-Up:
 - [Stack Underflow](https://github.com/Sujan14728/fsuclient)
